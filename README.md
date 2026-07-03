@@ -40,17 +40,17 @@ MailSentinel operates using a dual-engine Machine Learning architecture integrat
 
 ## 🚀 Current Status & Roadmap
 
-**Phase 1: Research & Link Model Development (🟢 Currently Here)**
+**Phase 1: Research & Link Model Development (🟢 Completed)**
 - [x] Define project scope and SaaS scalability.
 - [x] Complete dataset research and acquisition for phishing URLs.
 - [x] Initial dataset study and preprocessing.
-- [ ] Train and fine-tune the initial ML algorithms.
-- [ ] Build and optimize the Ensemble Model for link analysis.
+- [x] Train and fine-tune the initial ML algorithms.
+- [x] Build and optimize the Ensemble Model for link analysis.
 
-**Phase 2: Email Content Model Development (⏳ Upcoming)**
-- [ ] Acquire and preprocess email text datasets (spam/phishing vs. ham).
-- [ ] Train the NLP model for content analysis.
-- [ ] Develop sender verification heuristics.
+**Phase 2: Email Content Model Development (🟢 Completed)**
+- [x] Acquire and preprocess email text datasets (spam/phishing vs. ham).
+- [x] Train the NLP model for content analysis.
+- [x] Develop sender verification heuristics.
 
 **Phase 3: Browser Extension Integration (⏳ Upcoming)**
 - [ ] Develop the browser extension frontend.
