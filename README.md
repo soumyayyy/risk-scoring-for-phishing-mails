@@ -8,7 +8,7 @@ Originally conceptualized for enterprise security (e.g., Tata Motors), this tool
 
 ## 🛑 The Problem
 Inbox clutter and sophisticated social engineering make it difficult for users to distinguish between legitimate communications and dangerous phishing attempts. 
-* Users often overlook spoofed email addresses (e.g., mistaking `@tatamotors-support.com` for `@tatamotors.com`).
+* Users often overlook spoofed email addresses (e.g., mistaking `@microsoft-support.com` for `@microsoft.com`).
 * Malicious links are hidden behind legitimate-looking text.
 * Accidental clicks lead to compromised corporate data, credential theft, and financial fraud.
 
