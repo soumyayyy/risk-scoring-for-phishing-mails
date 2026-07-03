@@ -1,4 +1,4 @@
-# 🧠 MailSentinel: Confidence Scorer Module
+# 🧠 Confidence Scorer Module
 
 The `confidence_scorer.py` module is the central decision-making engine for the main phishing detection system. It ingests threat data from multiple independent security scanners and calculates a final, normalized **Phishing Confidence Score**.
 
